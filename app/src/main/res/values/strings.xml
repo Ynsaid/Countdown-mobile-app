@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countdown  app</string>
+    <string name="addEvent_btn">+</string>
+
+</resources>
